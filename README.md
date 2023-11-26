@@ -1,16 +1,18 @@
 # Website Template
 
+Modelo de Website usando como inspiração Harry Potter.
+
 ![Website Template](.github/preview.png)
 
-## Visão Geral
+## :thought_balloon: Visão Geral
 
-Projeto simples utilizando HTML, CSS e JavaScript para [Encontrar principais sites de Harry Potter].
+Projeto simples utilizando HTML, CSS e JavaScript para encontrar principais sites de Harry Potter.
 
-## Como Visualizar
+## :eyes: Como Visualizar
 
 Abra o arquivo `index.html` no seu navegador para visualizar o site.
 
-## Tecnologias
+## :computer: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -18,19 +20,21 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-## Estrutura de Arquivos
+## :grey_exclamation: Estrutura de Arquivos
 ├── index.html
+
 ├── style.css
+
 └── script.js
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
-## Contribuição
+## :love_letter: Contribuição
 
 Contribuições são sempre bem-vindas!
 
-## Créditos
+## :v: Créditos
 
 Feito com ♥ by Julia Faria :wave:
