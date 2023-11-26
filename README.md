@@ -37,4 +37,4 @@ Contribuições são sempre bem-vindas!
 
 ## :v: Créditos
 
-Feito com ♥ by Julia Faria :wave:
+Feito com muito ♥ by Julia Faria :wave:
