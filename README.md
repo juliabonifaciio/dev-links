@@ -2,7 +2,7 @@
 
 Modelo de Website usando como inspiração Harry Potter.
 
-![Website Template](.github/preview.png)
+![Website Template](.github/template.png)
 
 ## :thought_balloon: Visão Geral
 
