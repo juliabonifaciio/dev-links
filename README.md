@@ -6,7 +6,7 @@ DevLinks Website Template inspired by Harry Potter. Created based on the Rockets
   ##
   
 ## Overview
-This project is a simple website, using HTML, CSS, and JavaScript, developed to explore the main websites related to the Harry Potter universe.
+This project is a *simple website, using HTML, CSS, and JavaScript,* developed to explore the main websites related to the Harry Potter universe.
 
 ## How to View
 To view the site, simply open the index.html file in your favorite browser.
@@ -17,9 +17,9 @@ To view the site, simply open the index.html file in your favorite browser.
 - `Controle` de versão com Git e hospedagem no Github.
 
 ## File Structure
-├── index.html
-├── style.css
-└── script.js
+- index.html
+- style.css
+- script.js
 
 ## License
 This project is licensed under the MIT License.
