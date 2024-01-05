@@ -14,7 +14,7 @@ Para visualizar o site, basta abrir o arquivo index.html no seu navegador favori
 `JavaScript` para interações dinâmicas.
 `Controle` de versão com Git e hospedagem no Github.
 
-## :grey_exclamation: Estrutura de Arquivos
+## Estrutura de Arquivos
 ├── index.html
 
 ├── style.css
