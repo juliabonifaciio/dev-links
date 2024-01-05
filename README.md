@@ -1,4 +1,4 @@
-# Website Template: Exploring the Magical World of Harry Potter
+# DevLinks: Exploring the Magical World of Harry Potter
 DevLinks Website Template inspired by Harry Potter. Created based on the Rocketseat course and further enhanced by me.
 
 ![Website Template](.github/img.png)
