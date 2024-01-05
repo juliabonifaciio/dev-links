@@ -12,9 +12,9 @@ This project is a simple website, using HTML, CSS, and JavaScript, developed to 
 To view the site, simply open the index.html file in your favorite browser.
 
 ## Technologies Used
-`HTML e CSS` para a estrutura e estilo do site.
-`JavaScript` para interações dinâmicas.
-`Controle` de versão com Git e hospedagem no Github.
+- `HTML e CSS` para a estrutura e estilo do site.
+- `JavaScript` para interações dinâmicas.
+- `Controle` de versão com Git e hospedagem no Github.
 
 ## File Structure
 ├── index.html
