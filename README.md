@@ -1,24 +1,18 @@
-# Website Template
-
-Modelo de Website usando como inspiração Harry Potter.
+# Website Template: Explorando o Mundo Mágico de Harry Potter
+Modelo de Website (DevLinks) utilizando como inspiração Harry Potter. Feito a partir do curso da Rocketseat mas aprimorado por mim.
 
 ![Website Template](.github/img.png)
 
-## :thought_balloon: Visão Geral
+## Visão Geral
+Este projeto é um website simples, utilizando HTML, CSS e JavaScript, desenvolvido para explorar os principais sites relacionados ao universo de Harry Potter.
 
-Projeto simples utilizando HTML, CSS e JavaScript para encontrar principais sites de Harry Potter.
+## Como Visualizar
+Para visualizar o site, basta abrir o arquivo index.html no seu navegador favorito.
 
-## :eyes: Como Visualizar
-
-Abra o arquivo `index.html` no seu navegador para visualizar o site.
-
-## :computer: Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
-- JavaScript
-- Git e Github
+## Tecnologias Utilizadas
+`HTML e CSS` para a estrutura e estilo do site.
+`JavaScript` para interações dinâmicas.
+`Controle` de versão com Git e hospedagem no Github.
 
 ## :grey_exclamation: Estrutura de Arquivos
 ├── index.html
@@ -27,14 +21,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 └── script.js
 
-## :memo: Licença
+## Licença
+Este projeto está licenciado sob os termos da Licença MIT.
 
-Esse projeto está sob a licença MIT.
+## Contribuições
+Contribuições são sempre bem-vindas! Sinta-se à vontade para enviar melhorias ou correções.
 
-## :love_letter: Contribuição
-
-Contribuições são sempre bem-vindas!
-
-## :v: Créditos
-
-Feito com muito ♥ by Julia Faria :wave:
+## Créditos
+Desenvolvido com amor por Julia Faria, com apoio da Rocketseat.
